@@ -69,4 +69,6 @@ Importance of Prompt Engineering: It helps to avoid wrong answer by making you q
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: 'Tell me about car'
-Specific Prompt: 'Tell me about a Range Rover sport 2024 model'
+Improved Prompt: 'Tell me about a Range Rover sport 2024 model'
+
+The improved prompt is more effective because it uses clear, concise, complete and correct words.
