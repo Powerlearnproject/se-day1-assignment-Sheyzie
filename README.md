@@ -10,7 +10,10 @@ Software engineering is the systematic application of engineering principles, me
 Software engineering plays a crucial role in the technological industries by enabling the creation of software applications and systeems that powers the various aspect of modern life, including communication, commerce, entertainment and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1. The development of programming language (e.g Fortran, C)
+2. The establishment of software engineering as a descipline in the 1960s
+3. The advent of structured programming in the 1970s
+4. The rise of agile methodologies in the 2000s
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirements: This involves the gathering and documenting of user's needs and sytem requirement
